@@ -1,4 +1,4 @@
 This sampler is used with root. 
-It must be compiled and loaded after lanching root. 
-The branching ratios arn energy distributions are set for 137Cs.
+It must be compiled and loaded after launching root. 
+The branching ratios and energy distributions are set for 137Cs.
 Histograms are generated together with the event file once the program has ended.
